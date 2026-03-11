@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+PROFILE:VCARD
+URL;VALUE=URI:https://umcdiscipleship.org
+N;CHARSET=UTF-8:Michael McSwain;;;;
+FN;CHARSET=UTF-8:Michael McSwain
+ORG;CHARSET=UTF-8:Discipleship Ministries
+EMAIL:newsletters@umcdiscipleship.org
+ADR;CHARSET=UTF-8:;;1908 Grand Ave,;Nashville;TN;37212-2129;USA
+END:VCARD
